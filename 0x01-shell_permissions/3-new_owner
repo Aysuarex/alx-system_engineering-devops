@@ -1,2 +1,2 @@
-#!/bion/bash
-chown bety hello
+#!/bin/bash
+chown betty hello
