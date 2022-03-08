@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :x
-|2,0,1646689279,,"x"
+|2,0,1646696607,,"x"
 :q!
 |2,0,1646171531,,"q!"
 
@@ -40,237 +40,258 @@
 |3,1,36,0,1,0,1646335902,"o"
 
 # File marks:
-'0  24  0  ~/0x02-shell_redirections/README.md
-|4,48,24,0,1646689279,"~/0x02-shell_redirections/README.md"
-'1  23  2  ~/0x02-shell_redirections/README.md
-|4,49,23,2,1646689162,"~/0x02-shell_redirections/README.md"
-'2  23  2  ~/0x02-shell_redirections/README.md
-|4,50,23,2,1646689162,"~/0x02-shell_redirections/README.md"
-'3  20  42  ~/0x02-shell_redirections/README.md
-|4,51,20,42,1646689054,"~/0x02-shell_redirections/README.md"
-'4  20  42  ~/0x02-shell_redirections/README.md
-|4,52,20,42,1646689054,"~/0x02-shell_redirections/README.md"
-'5  20  42  ~/0x02-shell_redirections/README.md
-|4,53,20,42,1646689054,"~/0x02-shell_redirections/README.md"
-'6  20  42  ~/0x02-shell_redirections/README.md
-|4,54,20,42,1646689054,"~/0x02-shell_redirections/README.md"
-'7  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,55,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
-'8  2  2  ~/0x02-shell_redirections/README.md
-|4,56,2,2,1646687712,"~/0x02-shell_redirections/README.md"
-'9  2  2  ~/0x02-shell_redirections/README.md
-|4,57,2,2,1646687712,"~/0x02-shell_redirections/README.md"
+'0  27  142  ~/0x02-shell_redirections/README.md
+|4,48,27,142,1646696607,"~/0x02-shell_redirections/README.md"
+'1  2  86  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,49,2,86,1646695407,"~/0x02-shell_redirections/103-the_biggest_fan"
+'2  2  86  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,50,2,86,1646695407,"~/0x02-shell_redirections/103-the_biggest_fan"
+'3  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,51,2,37,1646695264,"~/0x02-shell_redirections/102-acrostic"
+'4  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,52,2,37,1646695264,"~/0x02-shell_redirections/102-acrostic"
+'5  2  89  ~/0x02-shell_redirections/101-gifs
+|4,53,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+'6  2  89  ~/0x02-shell_redirections/101-gifs
+|4,54,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+'7  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,55,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+'8  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,56,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+'9  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,57,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
 
 # Jumplist (newest first):
--'  24  0  ~/0x02-shell_redirections/README.md
-|4,39,24,0,1646689279,"~/0x02-shell_redirections/README.md"
--'  23  2  ~/0x02-shell_redirections/README.md
-|4,39,23,2,1646689174,"~/0x02-shell_redirections/README.md"
--'  23  2  ~/0x02-shell_redirections/README.md
-|4,39,23,2,1646689162,"~/0x02-shell_redirections/README.md"
--'  20  42  ~/0x02-shell_redirections/README.md
-|4,39,20,42,1646689061,"~/0x02-shell_redirections/README.md"
--'  20  42  ~/0x02-shell_redirections/README.md
-|4,39,20,42,1646689061,"~/0x02-shell_redirections/README.md"
--'  20  42  ~/0x02-shell_redirections/README.md
-|4,39,20,42,1646689054,"~/0x02-shell_redirections/README.md"
--'  2  2  ~/0x02-shell_redirections/README.md
-|4,39,2,2,1646688350,"~/0x02-shell_redirections/README.md"
--'  2  2  ~/0x02-shell_redirections/README.md
-|4,39,2,2,1646688350,"~/0x02-shell_redirections/README.md"
--'  2  2  ~/0x02-shell_redirections/README.md
-|4,39,2,2,1646688350,"~/0x02-shell_redirections/README.md"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  14  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,2,14,1646688056,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  1  0  ~/0x02-shell_redirections/1-confused_smiley
-|4,39,1,0,1646687762,"~/0x02-shell_redirections/1-confused_smiley"
--'  2  2  ~/0x02-shell_redirections/README.md
-|4,39,2,2,1646687712,"~/0x02-shell_redirections/README.md"
--'  2  2  ~/0x02-shell_redirections/README.md
-|4,39,2,2,1646687712,"~/0x02-shell_redirections/README.md"
+-'  27  142  ~/0x02-shell_redirections/README.md
+|4,39,27,142,1646696607,"~/0x02-shell_redirections/README.md"
 -'  1  0  ~/0x02-shell_redirections/README.md
-|4,39,1,0,1646687683,"~/0x02-shell_redirections/README.md"
--'  1  0  ~/0x02-shell_redirections/README.md
-|4,39,1,0,1646687683,"~/0x02-shell_redirections/README.md"
--'  1  0  ~/0x02-shell_redirections/README.md
-|4,39,1,0,1646687683,"~/0x02-shell_redirections/README.md"
--'  1  0  ~/0x02-shell_redirections/README.md
-|4,39,1,0,1646687683,"~/0x02-shell_redirections/README.md"
--'  1  0  ~/0x02-shell_redirections/README.md
-|4,39,1,0,1646687683,"~/0x02-shell_redirections/README.md"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  2  18  ~/0x02-shell_redirections/0-hello_world
-|4,39,2,18,1646687536,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  1  0  ~/0x02-shell_redirections/0-hello_world
-|4,39,1,0,1646687451,"~/0x02-shell_redirections/0-hello_world"
--'  14  59  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,14,59,1646348599,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  14  59  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,14,59,1646348599,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  14  59  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,14,59,1646348599,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
--'  14  59  ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
-|4,39,14,59,1646348599,"~/alx-system_engineering-devops/0x01-shell_permissions/README.md"
+|4,39,1,0,1646695504,"~/0x02-shell_redirections/README.md"
+-'  2  86  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,86,1646695407,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  86  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,2,86,1646695407,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1646695320,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  1  0  ~/0x02-shell_redirections/103-the_biggest_fan
+|4,39,1,0,1646695320,"~/0x02-shell_redirections/103-the_biggest_fan"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1646695264,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1646695264,"~/0x02-shell_redirections/102-acrostic"
+-'  2  37  ~/0x02-shell_redirections/102-acrostic
+|4,39,2,37,1646695264,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1646695214,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1646695214,"~/0x02-shell_redirections/102-acrostic"
+-'  1  0  ~/0x02-shell_redirections/102-acrostic
+|4,39,1,0,1646695214,"~/0x02-shell_redirections/102-acrostic"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+-'  2  89  ~/0x02-shell_redirections/101-gifs
+|4,39,2,89,1646695163,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1646695045,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1646695045,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1646695045,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1646695045,"~/0x02-shell_redirections/101-gifs"
+-'  1  0  ~/0x02-shell_redirections/101-gifs
+|4,39,1,0,1646695045,"~/0x02-shell_redirections/101-gifs"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  38  ~/0x02-shell_redirections/100-empty_casks
+|4,39,2,38,1646695027,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  1  0  ~/0x02-shell_redirections/100-empty_casks
+|4,39,1,0,1646694970,"~/0x02-shell_redirections/100-empty_casks"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  34  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,2,34,1646694867,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  1  0  ~/0x02-shell_redirections/22-users_and_homes
+|4,39,1,0,1646694785,"~/0x02-shell_redirections/22-users_and_homes"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
+-'  2  2  ~/0x02-shell_redirections/21-reverse
+|4,39,2,2,1646694777,"~/0x02-shell_redirections/21-reverse"
 
 # History of marks within files (newest to oldest):
 
 > ~/0x02-shell_redirections/README.md
-	*	1646689279	0
-	"	24	0
-	^	24	0
-	.	24	0
+	*	1646696606	0
+	"	27	142
+	^	27	143
+	.	27	142
 	+	2	51
+	+	7	112
+	+	7	65
+	+	7	130
+	+	7	180
+	+	7	281
+	+	7	214
+	+	7	221
+	+	7	204
+	+	7	191
+	+	7	262
+	+	7	280
+	+	7	247
+	+	7	215
+	+	10	143
+	+	10	176
+	+	10	135
+	+	28	4
+	+	28	87
+	+	28	123
+	+	29	0
+	+	3	46
 	+	7	112
 	+	7	65
 	+	10	65
@@ -285,26 +306,234 @@
 	+	14	135
 	+	14	103
 	+	19	78
-	+	19	111
-	+	20	70
-	+	23	4
+	+	19	110
 	+	23	87
-	+	23	123
-	+	24	0
+	+	23	121
+	+	24	287
+	+	24	249
+	+	24	227
+	+	24	198
+	+	24	199
+	+	24	113
+	+	25	523
+	+	25	485
+	+	25	463
+	+	25	464
+	+	25	202
+	+	25	149
+	+	25	120
+	+	26	541
+	+	26	489
+	+	26	411
+	+	27	204
+	+	27	142
 
-> ~/0x02-shell_redirections/1-confused_smiley
-	*	1646688054	0
+> ~/0x02-shell_redirections/103-the_biggest_fan
+	*	1646695406	0
+	"	2	86
+	^	2	87
+	.	2	86
+	+	2	86
+
+> ~/0x02-shell_redirections/102-acrostic
+	*	1646695263	0
+	"	2	37
+	^	2	38
+	.	2	37
+	+	2	37
+
+> ~/0x02-shell_redirections/101-gifs
+	*	1646695162	0
+	"	2	89
+	^	2	90
+	.	2	89
+	+	2	89
+
+> ~/0x02-shell_redirections/100-empty_casks
+	*	1646695026	0
+	"	2	38
+	^	2	39
+	.	2	38
+	+	2	38
+
+> ~/0x02-shell_redirections/22-users_and_homes
+	*	1646694866	0
+	"	2	34
+	^	2	35
+	.	2	34
+	+	2	34
+
+> ~/0x02-shell_redirections/21-reverse
+	*	1646694775	0
+	"	2	2
+	^	2	3
+	.	2	2
+	+	2	2
+
+> ~/0x02-shell_redirections/20-hiago
+	*	1646694736	0
+	"	2	20
+	^	2	21
+	.	2	20
+	+	2	20
+
+> ~/0x02-shell_redirections/19-AZ
+	*	1646694688	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/0x02-shell_redirections/18-letteronly
+	*	1646694634	0
+	"	2	38
+	^	2	39
+	.	2	38
+	+	2	38
+
+> ~/0x02-shell_redirections/17-hidethisword
+	*	1646694487	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/0x02-shell_redirections/16-whatsnext
+	*	1646694447	0
+	"	2	27
+	^	2	28
+	.	2	27
+	+	2	27
+
+> ~/0x02-shell_redirections/15-countthatword
+	*	1646694386	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/0x02-shell_redirections/14-findthatword
+	*	1646694343	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/0x02-shell_redirections/13-unique
+	*	1646694307	0
+	"	2	13
+	^	2	14
+	.	2	13
+	+	2	13
+
+> ~/0x02-shell_redirections/12_newest_files
+	*	1646694266	0
+	"	2	16
+	^	2	17
+	.	2	16
+	+	2	16
+
+> ~/0x02-shell_redirections/11-directories
+	*	1646694225	0
+	"	2	33
+	^	2	34
+	.	2	33
+	+	2	33
+
+> ~/0x02-shell_redirections/10-no_more_js
+	*	1646694164	0
+	"	2	32
+	^	2	33
+	.	2	32
+	+	2	32
+
+> ~/0x02-shell_redirections/9-duplicate_last_line
+	*	1646694112	0
+	"	2	23
+	^	2	24
+	.	2	23
+	+	2	23
+
+> ~/0x02-shell_redirections/8-cwd_state
+	*	1646694050	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/0x02-shell_redirections/7-file
+	*	1646693800	0
+	"	2	58
+	^	2	59
+	.	2	58
+	+	2	58
+
+> ~/0x02-shell_redirections/6-third_line
+	*	1646693671	0
+	"	2	22
+	^	2	23
+	.	2	22
+	+	2	22
+
+> ~/0x02-shell_redirections/5-firstlines
+	*	1646693590	0
+	"	2	15
+	^	2	16
+	.	2	14
+	+	2	14
+
+> ~/0x02-shell_redirections/4-lastlines
+	*	1646693554	0
+	"	2	15
+	^	2	16
+	.	2	15
+	+	2	15
+
+> ~/0x02-shell_redirections/3-twofiles
+	*	1646693510	0
+	"	2	24
+	^	2	25
+	.	2	24
+	+	2	24
+
+> ~/0x02-shell_redirections/2-hellofile
+	*	1646693467	0
 	"	2	14
 	^	2	15
 	.	2	14
 	+	2	14
 
+> ~/0x02-shell_redirections/1-confused_smiley
+	*	1646693434	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/0x02-shell_redirections/2
+	*	1646693317	0
+	"	2	14
+	^	2	15
+	.	2	14
+	+	2	14
+
+> ~/0x02-shell_redirections/1
+	*	1646693283	0
+	"	2	14
+	^	2	15
+	.	2	7
+	+	2	7
+
 > ~/0x02-shell_redirections/0-hello_world
-	*	1646687534	0
+	*	1646693188	0
 	"	2	18
 	^	2	19
 	.	2	18
 	+	2	18
+
+> ~/0x02-shell_redirections/READ
+	*	1646691227	0
+	"	1	0
 
 > ~/alx-system_engineering-devops/0x01-shell_permissions/README.md
 	*	1646348595	0
