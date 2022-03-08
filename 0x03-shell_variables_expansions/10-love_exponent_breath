@@ -1,2 +1,2 @@
 #!/bin/bash
-echp $ ((BREATH**LOVE))
+echo $ ((BREATH**LOVE))
