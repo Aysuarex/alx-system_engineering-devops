@@ -6,7 +6,7 @@ CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything i
 
 This repository contains projects from all three categories of the command-line challenge:
 - The [cmdchallenge](https://cmdchallenge.com/) with 42 tasks
-- The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with tasks
+- The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with 5 tasks
 - and The [12days.cmdchallenge](https://12days.cmdchallenge.com/) with tasks
 
 
