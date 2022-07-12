@@ -5,7 +5,7 @@ These are screenshots from my progress in the [CMDCHALLENGE](https://alx-intrane
 CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything is done via the command line and the questions are becoming increasingly complicated. It’s a good training to improve your command line skills!
 
 This repository contains projects from all three categories of the command-line challenge:
-- The [cmdchallenge](https://cmdchallenge.com/) with 30 tasks
+- The [cmdchallenge](https://cmdchallenge.com/) with 40 tasks
 - The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with tasks
 - and The [12days.cmdchallenge](https://12days.cmdchallenge.com/) with tasks
 
