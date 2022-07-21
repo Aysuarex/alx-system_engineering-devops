@@ -15,7 +15,7 @@ tasks `102` and `103`.
 
 * **1. For Best School loop**
   * [1-for_best_school](./1-for_best_school): Bash script that displays
-  `Holberton School` 10 times using a `for` loop.
+  `Best School` 10 times using a `for` loop.
 
 * **2. While Best School loop**
   * [2-while_best_school](./2-while_best_school): Bash script that
@@ -37,7 +37,7 @@ tasks `102` and `103`.
   from 1 to 10 using a `while` loop and:
     * Displays `bad luck` on the 4th iteration.
     * Displays `good luck` on the 8th iteration.
-    * Displays `Holberton School` for all other iterations.
+    * Displays `Best School` for all other iterations.
   * Uses the `if`, `elif`, and `else` statements.
 
 * **6. Superstitious numbers**
@@ -60,13 +60,13 @@ tasks `102` and `103`.
 
 * **9. To file, or not to file**
   * [9-to_file_or_not_to_file](./9-to_file_or_not_to_file): Bash script that gives information
-  about the `holbertonschool` file.
-    * If the file exists, displays: `holbertonschool file exists`.
-    * If the file does not exist, displays: `holbertonschool file does not exist`.
-    * If the file exists and is empty, displays: `holbertonschool file is empty`.
-    * If the file exists and is not empty, displays: `holbertonschoolfile is not
+  about the `bestschool` file.
+    * If the file exists, displays: `bestschool file exists`.
+    * If the file does not exist, displays: `bestschool file does not exist`.
+    * If the file exists and is empty, displays: `bestschool file is empty`.
+    * If the file exists and is not empty, displays: `bestschoolfile is not
     empty`.
-    * If the file exists and is a regular file, displays: `holbertonschool file
+    * If the file exists and is a regular file, displays: `bestschool file
     is a regular file`.
     * Otherwise, displays nothing.
 
