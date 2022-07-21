@@ -26,9 +26,9 @@ tasks `102` and `103`.
   `Best School` 10 times using an `until` loop.
 
 * **4. If 9, say Hi!**
-  * [4-if_9_say_hi](./4-if_9_say_hi): Bash script that displays `Holberton School`
+  * [4-if_9_say_hi](./4-if_9_say_hi): Bash script that displays `Best School`
   10 times using a `while` loop.
-  * For the 9th iteration, displays `Holberton School` and then `Hi` on a
+  * For the 9th iteration, displays `Best School` and then `Hi` on a
   new line.
   * Uses an `if` statement.
 
