@@ -24,7 +24,7 @@ transfer protocols.
 
 * **1. Types of network**
   * [1-types_of_network](./1-types_of_network): Text file answering the following questions:
-  * What type of network are Holberton iMacs connected to?
+  * What type of network a computer in local is connected to?
     1. Internet
     2. WAN
     3. LAN
@@ -33,7 +33,7 @@ transfer protocols.
     1. Internet
     2. WAN
     3. LAN
-  * What network do you use when you browse www.holbertonschool.com from your
+  * What network do you use when you browse www.google.com from your
   smartphone (not connected to the Wifi)?
     1. Internet
     2. WAN
