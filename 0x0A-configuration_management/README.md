@@ -8,7 +8,7 @@ package, and execute a command.
 
 * **0. Create a file**
   * [0-create_a_file.pp](./0-create_a_file.pp): Puppet manifest file that
-  creates a file `holberton` in the `/tmp` directory.
+  creates a file `school` in the `/tmp` directory.
     * File permissions: `0744`.
     * File group: `www-data`.
     * File owner: `www-data`.
