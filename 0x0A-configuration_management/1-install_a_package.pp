@@ -1,6 +1,5 @@
-# Installs flask from pip3 using Puppet
+# install flask -v 2.1.0
 
-exec { 'install flask':
-  command => 'sudo pip3 install flask -v 2.1.0',
-  path    => '/usr/bin',
-  }
+exec { 'puppet-lint':
+  command => '/usr/bin/apt-get -y install flask -v 2.1.0',
+}
