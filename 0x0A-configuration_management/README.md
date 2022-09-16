@@ -1,5 +1,23 @@
-# 0x0A-configuration_management
+# Configuration management
 
-- In a nutshell, server configuration management (also popularly referred to as IT Automation) is a solution for turning your infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused. It can greatly improve the integrity of any server infrastructure over time.
+In this project, I started working with Puppet as a configuration management
+tool. I practiced writing Puppet manifest files to create a file, install a
+package, and execute a command.
 
+## Tasks :page_with_curl:
 
+* **0. Create a file**
+  * [0-create_a_file.pp](./0-create_a_file.pp): Puppet manifest file that
+  creates a file `holberton` in the `/tmp` directory.
+    * File permissions: `0744`.
+    * File group: `www-data`.
+    * File owner: `www-data`.
+    * File content: `I love Puppet`.
+
+* **1. Install a package**
+  * [1-install_a_package.pp](./1-install_a_package.pp): Puppet manifest file
+  that install puppet-lint version 2.1.1.
+
+* **2. Execute a command**
+  * [2-execute_a_command.pp](./2-execute_a_command.pp): Puppet manifest file
+  that kills the process `killmenow`.
