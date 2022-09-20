@@ -17,7 +17,7 @@ Project done during **Full Stack Software Engineering studies** at **ALX**. It a
 
 ## File Descriptions
 
-Each file contains a link to an image hosted on Imgur. These images are based on the following requirements: <br />
+Each file contains a link to an image hosted on Imgbox. These images are based on the following requirements: <br />
 
 ### [0-simple_web_stack](0-simple_web_stack)
 
