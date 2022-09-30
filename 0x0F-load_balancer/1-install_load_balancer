@@ -1,44 +1,29 @@
 #!/usr/bin/env bash
-# Installs HAProxy version 1.8 with the following configurations:
-#+    Enables management via the init script.
-#+    Distributes requests using a round-robin algorithm.
-
-apt-get install -y software-properties-common
-add-apt-repository -y ppa:vbernat/haproxy-1.8
-apt-get update
-apt-get install -y haproxy=1.8.\*
-
-echo "ENABLED=1" >> /etc/default/haproxy
-mv /etc/haproxy/haproxy.cfg{,.original}
-touch /etc/haproxy/haproxy.cfg
-
-printf %s "global
-    log 127.0.0.1 local0 notice
-    maxconn 2000
-    user haproxy
-    group haproxy
-
-defaults
-    log     global
-    mode    http
-    option  httplog
-    option  dontlognull
-    retries 3
-    option redispatch
-    timeout connect  5000
-    timeout client  10000
-    timeout server  10000
-
-listen hbnb
-    bind 0.0.0.0:80
+# Configure Nginx so that its HTTP response contains
+# a custom header
+#
+balancer="\
+frontend haproxy_balancer
+    bind *:80
     mode http
-    stats enable
-    stats uri /haproxy?stats
+    default_backend webservers
+    
+backend webservers
     balance roundrobin
-    option httpclose
-    option forwardfor
-    server 375-web-01 44.210.150.159 check
-    server 375-web-02 35.173.47.15:80 check
-" >> /etc/haproxy/haproxy.cfg
+    server 26071-web-01 44.210.150.159:80 check
+    server 26071-web-02 35.173.47.15:80 check
+"
+# Update packages
+apt-get -y update
+apt-get -y upgrade
 
-service haproxy start
+# Add HAProxy PPA
+apt-get -y install software-properties-common
+add-apt-repository -y ppa:vbernat/haproxy-2.5
+apt-get -y update
+
+# Install HAProxy
+apt-get -y install haproxy
+cp -a /etc/haproxy/haproxy.cfg{,.orig}
+echo "$balancer" >> /etc/haproxy/haproxy.cfg
+service haproxy restart
