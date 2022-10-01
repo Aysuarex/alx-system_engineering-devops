@@ -1,44 +1,16 @@
 #!/usr/bin/env bash
-# Configure my domain zone:
-# www --> 914-lb-01 44.211.97.178
-# web-01 --> 914-web-01 44.210.150.159
-# web-02 --> 914-web-02 35.173.47.15
+# Takes a subdomain and a domain and returns information about the subdomain
 
-# -- To be evaluated --
-# domain_information () {
-#     line=$(dig "$2"."$1" | grep -A1 'ANSWER SECTION:' | tr '\t' '\n' | tail -2 | tr '\n' ' ')
-#     echo "$2 $line" | awk '{print "The subdomain " $1 " is a " $2 " record and points to " $3}'
-# }
-
-# if [ "$#" == 1 ]
-# then
-#   domain_information "$1" "www"
-#   domain_information "$1" "lb-01"
-#   domain_information "$1" "web-01"
-#   domain_information "$1" "web-02"
-# elif [ "$#" == 2 ]
-# then
-#   domain_information "$1" "$2"
-# fi
-#-- To be evaluated --
-
-subdomains_all=( "www" "lb-01" "web-01" "web-02" )
-
-runDig () {
-    subdomain=$1
-    domain=$2
-
-    dig "$subdomain.$domain" | grep -A1 'ANSWER SECTION:' | tail -1 | awk -v s="$subdomain" 'BEGIN { FS = " " } ; { print "The subdomain " s " is a " $4 " record and points to " $5 }'
+print_info () {
+    dig "$1" | grep -A1 'ANSWER SECTION:' | sed -r "s/$1./$2/g" | awk -F" " ' NR==2 { print "The subdomain " $1 " is a " $4 " record and points to " $5 }'
 }
 
-if [ $# -eq 1 ]; then
-    domain="$1"
-    for i in "${subdomains_all[@]}"
-    do
-	runDig "$i" "$domain"
-    done
-elif [ $# -eq 2 ]; then
-    domain="$1"
-    subdomain="$2"
-    runDig "$subdomain" "$domain"
+if [ "$#" -eq 2 ]
+then
+    print_info "$2.$1" "$2"
+else
+    print_info "www.$1" "www"
+    print_info "lb-01.$1" "lb-01"
+    print_info "web-01.$1" "web-01"
+    print_info "web-02.$1" "web-02"
 fi

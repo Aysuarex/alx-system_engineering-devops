@@ -34,20 +34,20 @@ defaults
 	errorfile 504 /etc/haproxy/errors/504.http
 
 # start of parameters for beta-scribbles.tech
-frontend betascribbles.tech-http-frontend
+frontend aysuarex.tech-http-frontend
 	bind	 *:80
 	http-request set-header X-Forwarded-Proto http
-	default_backend	 beta-scribbles.tech-backend
+	default_backend	 aysuarex.tech-backend
 
 
-frontend  beta-scribbles.tech-https-frontend
+frontend  aysuarex.tech-https-frontend
 	bind *:443 ssl crt /etc/ssl/beta-scribbles.tech.pem
 	http-request set-header X-Forwarded-Proto https
-        default_backend beta-scribbles.tech-backend
+        default_backend aysuarex.tech-backend
 
 
-backend beta-scribbles.tech-backend
+backend aysuarex.tech-backend
         balance roundrobin
-        server 914-web-01 34.138.32.248:80 check
-        server 914-web-02 3.226.74.205:80 check
+        server 914-web-01 44.210.150.159:80 check
+        server 914-web-02 35.173.47.15:80 check
 # end of parameters
