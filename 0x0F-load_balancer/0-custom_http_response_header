@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Installs Nginx with the following configurations:
 #+    Listens on port 80.
-#+    Returns a page containing "Holberton School" when queried
+#+    Returns a page containing "Hello World" when queried
 #+     at the root with a curl GET request.
 #+    Configures /redirect_me as a "301 Moved Permanently".
 #+    Includes a custom 404 page containing "Ceci n'est pas une page".
@@ -13,7 +13,7 @@ apt-get install -y nginx
 
 mkdir -p /var/www/html
 touch /var/www/html/index.html
-echo "Holberton School" > /var/www/html/index.html
+echo "Hello World" > /var/www/html/index.html
 touch /var/www/html/404.html
 echo "Ceci n'est pas une page" > /var/www/html/404.html
 
