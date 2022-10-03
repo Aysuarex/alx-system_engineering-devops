@@ -52,7 +52,7 @@ transfer protocols.
 
 * **3. UDP and TCP**
   * [3-UDP_and_TCP](./3-UDP_and_TCP): Text file answering the following questions
-  (boxes refer to an image provided by Holberton School):
+  (boxes refer to an image provided by ALX):
   * Which statement is correct for the TCP box:
     1. It is a protocol that is transferring data in a slow way but surely
     2. It is a protocol that is transferring data in a fast way and might loss
