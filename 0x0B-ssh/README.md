@@ -8,7 +8,7 @@ provided by ALX.
 
 * **0. Use a private key**
   * [0-use_a_private_key](./0-use_a_private_key): Bash script that uses `ssh` to connect to my
-Holberton-provided server.
+ALX-provided server.
 
 * **1. Create an SSH key pair**
   * [1-create_ssh_key_pair](./1-create_ssh_key_pair): Bash script that creates an RSA key pair.
