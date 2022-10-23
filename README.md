@@ -22,7 +22,15 @@ All of the following folders are projects done during the studies:
 | [`0x0C-web_server`](https://github.com/aysuarex/alx-system_engineering-devops/edit/master/0x0C-web_server) | It aims to learn about the roles of web servers and their processes (parent and child), and DNS roles |
 | [`0x0D-web_stack_debugging_0`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0) | It aims to learn about how to debug a webstack |
 | [`0x0E-web_stack_debugging_1`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1) | It aims to provide further knowledge on how to debug a webstack |
-| [`0x0F-load_balancer`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | It aims to ... |
+| [`0x0F-load_balancer`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | It aims to learn about how to setup and use a load balancer distributing network load across multiple servers |
+| [10](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x10-https_ssl) | . |
+| [11](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [12](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [13](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [14](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [15](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [Command Line For The Win]() | . |
+| [Attack Is The Best Defense]() | . |
 
 
 ## Author :
