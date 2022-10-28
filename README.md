@@ -32,10 +32,7 @@ All of the following folders are projects done during the studies:
 | [15](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
 | [Command Line For The Win]() | . |
 | [Attack Is The Best Defense]() | . |
-=======
 | [`0x0F-load_balancer`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | It aims to learn ... |
->>>>>>> 1ca0a19c3e9c04f438db271ee58be0696b184d21
-
 
 ## Author :
 * **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
