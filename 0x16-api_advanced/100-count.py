@@ -1,72 +1,55 @@
 #!/usr/bin/python3
+"""Queries the Reddit API.
+
+Recursively obtains the count of words in all hot post titles.
 """
-Function that queries the Reddit API and prints
-the top ten hot posts of a subreddit
-"""
-import re
-import requests
-import sys
-
-
-def add_title(dictionary, hot_posts):
-    """ Adds item into a list """
-    if len(hot_posts) == 0:
-        return
-
-    title = hot_posts[0]['data']['title'].split()
-    for word in title:
-        for key in dictionary.keys():
-            c = re.compile("^{}$".format(key), re.I)
-            if c.findall(word):
-                dictionary[key] += 1
-    hot_posts.pop(0)
-    add_title(dictionary, hot_posts)
-
-
-def recurse(subreddit, dictionary, after=None):
-    """ Queries to Reddit API """
-    u_agent = 'Mozilla/5.0'
-    headers = {
-        'User-Agent': u_agent
-    }
-
-    params = {
-        'after': after
-    }
-
-    url = "https://www.reddit.com/r/{}/hot.json".format(subreddit)
-    res = requests.get(url,
-                       headers=headers,
-                       params=params,
-                       allow_redirects=False)
-
-    if res.status_code != 200:
-        return None
-
-    dic = res.json()
-    hot_posts = dic['data']['children']
-    add_title(dictionary, hot_posts)
-    after = dic['data']['after']
-    if not after:
-        return
-    recurse(subreddit, dictionary, after=after)
+from requests import get
+after = ""
 
 
 def count_words(subreddit, word_list):
-    """ Init function """
-    dictionary = {}
+    """Print the count of words fro, all hot post titles."""
+    hot_list = recurse(subreddit)
+    word_dict = {}
 
-    for word in word_list:
-        dictionary[word] = 0
-
-    recurse(subreddit, dictionary)
-
-    l = sorted(dictionary.items(), key=lambda kv: kv[1])
-    l.reverse()
-
-    if len(l) != 0:
-        for item in l:
-            if item[1] is not 0:
-                print("{}: {}".format(item[0], item[1]))
+    if not hot_list:
+        return None
     else:
-        print("")
+        word_dict = {word.lower(): 0 for word in word_list}
+
+    for title in hot_list:
+        title_split = title.split(" ")
+        title_words = [word for word in title_split]
+        for word in word_dict:
+            count = title_words.count(word)
+            if count > 0:
+                word_dict[word] += count
+
+    word_list = [
+        [word, count] for word, count in word_dict.items() if count > 0
+    ]
+    word_list = sorted(word_list, key=lambda x: x[1], reverse=True)
+    for word in word_list:
+        print('{}: {}'.format(word[0], word[1]))
+
+
+def recurse(subreddit, hot_list=[]):
+    """Return a list with the titles of all hot articles for subreddit."""
+    global after
+    url = 'https://www.reddit.com/r/{}/hot.json?after={}'
+    headers = {'User-Agent': 'matv:1.0.0'}
+    request = get(url.format(subreddit, after),
+                  headers=headers,
+                  allow_redirects=False)
+    if request.status_code != 200:
+        return None
+    if after is None:
+        return hot_list
+    data = request.json().get('data').get('children')
+
+    for post in data:
+        hot_list.append(post.get('data').get('title').lower())
+
+    after = request.json().get('data').get('after')
+    recurse(subreddit, hot_list)
+    return(hot_list)
