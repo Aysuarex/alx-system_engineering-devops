@@ -1,7 +1,7 @@
 # Webstack monitoring
 
 This project invovled setting up Sumo Logic accounts to monitor server traffic
-on my three HolbertonBnB servers.
+on my three HBnB servers.
 
 ## Tasks :page_with_curl:
 
