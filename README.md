@@ -25,7 +25,7 @@ All of the following folders are projects done during the studies:
 | [`0x0F-load_balancer`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x0F-load_balancer) | It aims to learn about how to setup and use a load balancer distributing network load across multiple servers |
 | [0x10-https_ssl](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x10-https_ssl) | . |
 | [0x11](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
-| [12](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
+| [0x12](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
 | [13](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
 | [14-](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
 | [15](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/) | . |
