@@ -27,7 +27,7 @@ Upstart script to keep the application running on server reboots.
   Gunicorn app running on port `5000`.
 
 * **4. Let's do this for your API**
-  * In this task, I configured the API from my [AirBnB_clone_v3](./https://github.com/Tijani1402/AirBnB_clone_v31) to run on Gunicorn.
+  * In this task, I configured the API from my [AirBnB_clone_v3](/https://github.com/Tijani1402/AirBnB_clone_v31) to run on Gunicorn.
   * [4-app_server-nginx_config](./4-app_server-nginx_config): Nginx configuration file
   that proxies requests on the AirBnB API to the corresponding Gunicorn app.
 
