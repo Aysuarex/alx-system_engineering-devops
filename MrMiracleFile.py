@@ -1,1 +1,0 @@
-Typing some words
