@@ -27,7 +27,7 @@ All of the following folders are projects done during the studies:
 | [`0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) | . |
 | [`0x12-web_stack_debugging_2`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2) | . |
 | [`0x13-firewall`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x13-firewall) | . |
-| [`0x14-mysql](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | . |
+| [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | . |
 | [`0x15-api](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x15-api) | . |
 | [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) | . |
 | [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) | . |
