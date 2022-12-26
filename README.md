@@ -26,7 +26,7 @@ All of the following folders are projects done during the studies:
 | [`0x10-https_ssl`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x10-https_ssl) | This aims to learn about SSL certificates and authentication |
 | [`0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) | This aims to write an article explaining the intricacies of what happens when one makes a google search |
 | [`0x12-web_stack_debugging_2`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2) | This aims to provide further knowledge of what was previously learned in webstack debugging |
-
+ |
 | [`0x13-firewall`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x13-firewall) | This aims to learm about firewalls and how to set them up for servers |
 | [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | . |
 | [`0x15-api`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x15-api) | . |
