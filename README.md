@@ -28,7 +28,7 @@ All of the following folders are projects done during the studies:
 | [`0x12-web_stack_debugging_2`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2) | This aims to provide further knowledge of what was previously learned in webstack debugging |
  |
 | [`0x13-firewall`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x13-firewall) | This aims to learm about firewalls and how to set them up for servers |
-| [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | . |
+| [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | This aims to learn how to incorporate the use of MySQL in this module |
 | [`0x15-api`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x15-api) | . |
 | [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) |  This aims to gain mastery of command line commands across different difficulties |
 | [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) | . |
