@@ -30,7 +30,7 @@ All of the following folders are projects done during the studies:
 | [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | This aims to learn how to incorporate the use of MySQL in this module |
 | [`0x15-api`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x15-api) | This aims to learn how to incorporate the use of api in this module  |
 | [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) |  This aims to gain mastery of command line commands across different difficulties |
-| [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) |  .    |
+| [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best_defense) |  .  |
 
 ## Author :
 * **[Suara Ayomide](https://twitter.com/Aysuarex)** <[Aysuarex](https://github.com/Aysuarex)>
